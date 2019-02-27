@@ -2,7 +2,7 @@
 
 Using a Pre-trained Image Classifier to Identify Dog Breeds
 
-In this project we had 2 main objectives:
+In this project we had the following objectives:
 
 1. Identifying which pet images are of dogs and which pet images aren't of dogs
 2. Classifying the breeds of dogs, for the images that are of dogs
